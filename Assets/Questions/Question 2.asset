@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Penguins?
   answers:
-  - Penguins are cute
-  - Penguins aren't cute
-  - Penguins fly
-  - Penguins have been to the moon
+  - Are cute
+  - Aren't cute
+  - Fly
+  - Have been to the moon
   correctAnswerIndex: 0
